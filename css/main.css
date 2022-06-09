@@ -1,0 +1,44 @@
+h1 {
+    color: red;
+}
+
+.first-p {
+    background-color: blue;
+    color: white;
+    width: 100px;
+}
+
+.first-s {
+    color: red;
+}
+
+.first-h2 {
+    background-color: green;
+    color: white;
+}
+
+.second-h2 {
+    color: white;
+    background-color: green;
+    height: 30px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.third-h2 {
+    background-color: green;
+    color: white;
+}
+
+.second-p {
+    margin-top: 100px;
+}
+
+.third-p {
+    margin-left: 100px;
+}
+
+li {
+    border: 1px solid black;
+}
